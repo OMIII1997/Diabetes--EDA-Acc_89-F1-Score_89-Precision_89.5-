@@ -18,6 +18,11 @@ XGBoost :-> 87.50  After Distribution Normalization + Up-Sampling + Feature Sele
 XGBoost & Random Forest :-> 89.00  After Distribution Normalization + Up-Sampling + Feature Selection + Fine Tuning + Random State in Data Spliting <br>
 Gradient Boosting Classifier :-> 92.20  After removing outliers <br>
 
+# Visit for outlier removal techniques <br>
+https://www.kaggle.com/akhileshdkapse/starter-guide-eda-acc-87-precision-92/notebook#Removing-outliers-! <br>
+And <br>
+https://www.kaggle.com/abdulrahmanahajj/diabetes-acc-92-auc-0-914 <br>
+
 # Problem Statement : Diabetes Prediction <br> <br>
 
 ## Some EDA <br> <br>

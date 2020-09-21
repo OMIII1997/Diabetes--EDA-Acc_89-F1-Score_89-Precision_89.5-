@@ -13,4 +13,18 @@ If you found this notebook helpful, your Upvote Will Encourage Me !!! 😀😇�
 Problem Statement : Diabetes Prediction <br>
 <br>
 ## Some EDA <br>
-![alt text]
+# Given data visualized in a single window <br>
+![alt text](https://github.com/OMIII1997/Diabetes--EDA-Acc_89-F1-Score_89-Precision_89.5-/blob/master/screen_shots/pairplot.png)
+<br>
+# XGB_feature_importance-1 <br>
+![alt text](https://github.com/OMIII1997/Diabetes--EDA-Acc_89-F1-Score_89-Precision_89.5-/blob/master/screen_shots/xgb_feature_imp1.png)
+<br>
+# XGB_feature_importance-2 <br>
+![alt text](https://github.com/OMIII1997/Diabetes--EDA-Acc_89-F1-Score_89-Precision_89.5-/blob/master/screen_shots/xgb_feature_imp2.png)
+<br>
+# Data is normally distributed using boxcox <br>
+![alt text](https://github.com/OMIII1997/Diabetes--EDA-Acc_89-F1-Score_89-Precision_89.5-/blob/master/screen_shots/normal_distributed_pairplor.png)
+<br>
+# Random Forest 89% Acc, Confusion Matrix <br>
+![alt text](https://github.com/OMIII1997/Diabetes--EDA-Acc_89-F1-Score_89-Precision_89.5-/blob/master/screen_shots/RF_confusion_matrix.png)
+<br>

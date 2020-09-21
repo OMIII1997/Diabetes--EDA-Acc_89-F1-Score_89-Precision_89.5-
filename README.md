@@ -10,7 +10,16 @@ Points covered are:<br>
 <br>
 If you found this notebook helpful, your Upvote Will Encourage Me !!! 😀😇😊<br>
 <br>
-Problem Statement : Diabetes Prediction <br>
+
+## Results 💹📈<br>
+
+Benchmark : 75.97  Without any processing <br>
+XGBoost : 87.50  After Distribution Normalization + Up-Sampling + Feature Selection <br>
+XGBoost & Random Forest : 89.00  After Distribution Normalization + Up-Sampling + Feature Selection + Fine Tuning + Random State in Data Spliting <br>
+Gradient Boosting Classifier : 92.20  After removing outliers <br>
+
+<br>
+# Problem Statement : Diabetes Prediction <br>
 <br>
 ## Some EDA <br>
 # Given data visualized in a single window <br>
